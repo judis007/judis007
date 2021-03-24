@@ -1,5 +1,4 @@
 - 👋 Hi, I’m JUDIS M JEEVAN
-- 👀 I’m interested in building beautiful web-apps
-- 🌱 I’m currently learning Ruby On Rails, Ruby, RSpec etc.
-- 💞️ I’m looking to collaborate with beautiful minds.
+- 👀 I build beautiful web-apps and games using Ruby.
+- 🌱 I’m currently diving deep into Ruby, Gosu, RSpec etc.
 - 📫 Reach me at judismjeevan@gmail.com
