@@ -1,4 +1,4 @@
 - 👋 Hi, I’m JUDIS M JEEVAN
-- 👀 I am learning to build web-apps using Ruby On Rails.
-- 🌱 I’m also diving into Ruby, RSpec and PostgreSQL.
+- 👀 I am diving into the internals of Ruby.
+- 🌱 I’m also diving into Gosu, a 2D game development library for Ruby.
 - 📫 Reach me at judismjeevan@gmail.com
